@@ -1,0 +1,8 @@
+[package]
+name = "python_version_tui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.22"
+tui = "0.16"

@@ -1,0 +1,12 @@
+#left {
+    width: 70%;
+    height: 100%;
+    overflow: auto;
+}
+
+#right {
+    width: 30%;
+    height: 100%;
+    overflow: auto;
+}
+

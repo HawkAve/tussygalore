@@ -1,0 +1,16 @@
+My machine is an M1 MacOs MacBook Pro
+Create a tui with Rich so that it is nice to look at it and  use python to build it. 
+Tui will: 
+Each Version of python will have its own window page. which will contain everythin mentioned bellow. 
+1. Display python versions installed on machine (which were installed with pyenv and homebrew)
+2. Display packages including it's version 
+3. Display location of packages and python installs
+4. Display a brief to the point description of package purpose.
+4. Show a list of uninstalled packages from pypi.org and be able to scroll in its column. 
+5. Be able to install these packages for that version of python
+6. Each version of python will have its own page with all of this information available
+7. Scrape all the packages from the pypi.org website and create a database keepint tui snapy and responsive. 
+8. Use nvim navigatopm keybinds use hjkl
+9. Use Yazi File manager to browse location of python and packages. 
+10. Start with 1 and make the choices numbered. 
+

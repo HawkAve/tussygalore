@@ -1,0 +1,11 @@
+[package]
+name = "python_switcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.20"
+tui = { version = "0.16", features = ["crossterm"] }
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+
